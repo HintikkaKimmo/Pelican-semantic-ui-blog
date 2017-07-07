@@ -1,0 +1,23 @@
+{
+  "name": "pelican-semantic-ui-blog",
+  "version": "1.0.0",
+  "description": "Pelican Semantic-ui Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HintikkaKimmo/Pelican-semantic-ui-blog.git"
+  },
+  "keywords": [
+    "Pelican",
+    "Semantic-ui"
+  ],
+  "author": "Kimmo Hintikka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HintikkaKimmo/Pelican-semantic-ui-blog/issues"
+  },
+  "homepage": "https://github.com/HintikkaKimmo/Pelican-semantic-ui-blog#readme"
+}
